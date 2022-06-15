@@ -1,0 +1,26 @@
+{
+  "name": "@gihooks/use_full_screen",
+  "version": "1.0.0",
+  "description": "React Hook to handle full screen",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GisangLee/gihooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "full",
+    "screen"
+  ],
+  "author": "Gisang Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GisangLee/gihooks/issues"
+  },
+  "homepage": "https://github.com/GisangLee/gihooks#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
